@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 escribiendo en la rama master
+crando ramas git branch, cambiando de rama, git checkout
